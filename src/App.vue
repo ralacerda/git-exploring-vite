@@ -1,5 +1,6 @@
 <template>
   <h1>Olá Git</h1>
+  <h2>Dia de estudos de Git</h2>
 </template>
 
 <style scoped>
