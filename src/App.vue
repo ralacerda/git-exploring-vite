@@ -6,6 +6,6 @@
 h1 {
   color: #42b983;
   text-align: center;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 </style>
