@@ -7,7 +7,7 @@
 h1 {
   color: #42b983;
   text-align: center;
-  font-size: 2rem;
+  font-size: 3rem;
   height: 100vh;
   align-content: center;
 }
